@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vogelhuisjes Dashboard</title>
+  <link rel="stylesheet" href="Sovon.css">
+</head>
+<body>
+  <h1>Vogelhuisjes Dashboard</h1>
+
+  <div id="dashboard">
+    <div class="house">
+      <!-- Huisje nummer -->
+      <label for="house">Huisje nummer:</label>
+      <input type="number" id="house" placeholder="Typ het huisje nummer">
+
+      <!-- Vogelsoort dropdown -->
+      <label for="bird">Vogelsoort:</label>
+      <select id="bird">
+        <option value="Leeg">Leeg</option>
+        <option value="Bontevliegenvanger">Bontevliegenvanger</option>
+        <option value="Boomklever">Boomklever</option>
+        <option value="Koolmees">Koolmees</option>
+        <option value="Pimpelmees">Pimpelmees</option>
+        <option value="Anders">Anders</option>
+      </select>
+
+      <!-- Dynamisch tekstveld voor 'Anders' -->
+      <div id="other-bird-div" style="display: none;">
+        <label for="other-bird">Specificeer andere vogelsoort:</label>
+        <input type="text" id="other-bird" placeholder="Typ hier de vogelsoort...">
+      </div>
+
+      <!-- Status checkboxes -->
+      <label>Status:</label>
+      <div id="status-container">
+        <div>
+          <input type="checkbox" id="status-leeg">
+          <label for="status-leeg">Leeg</label>
+        </div>
+        <div>
+          <input type="checkbox" id="status-nestmateriaal">
+          <label for="status-nestmateriaal">Nestmateriaal</label>
+        </div>
+        <div>
+          <input type="checkbox" id="status-broeden">
+          <label for="status-broeden">Broeden</label>
+        </div>
+        <div>
+          <input type="checkbox" id="status-eitjes">
+          <label for="status-eitjes">Eitjes</label>
+            <div id="dynamic-eitjes" style="display: none;">
+              <input type="number" id="eitjes" placeholder="Aantal eitjes">
+            </div>
+        </div>
+        <div>
+          <input type="checkbox" id="status-kuikens">
+          <label for="status-kuikens">Kuikens</label>
+          <div id="dynamic-kuikens" style="display: none;">
+            <input type="number" id="kuikens" placeholder="Aantal kuikens">
+          </div>
+        </div>
+        <div>
+          <input type="checkbox" id="status-uitgevlogen">
+          <label for="status-uitgevlogen">Uitgevlogen</label>
+          <div id="dynamic-uitgevlogen" style="display: none;">
+            <input type="number" id="uitgevlogen" placeholder="Aantal uitgevlogen">
+          </div>
+        </div>
+        <div>
+          <input type="checkbox" id="status-anders">
+          <label for="status-anders">Anders</label>
+          <div id="dynamic-anders" style="display: none;">
+            <input type="text" id="anders" placeholder="Specificeer status">
+          </div>
+        </div>
+      </div>
+
+      <!-- Datum -->
+      <label for="date">Datum:</label>
+      <input type="date" id="date">
+    </div>
+  </div>
+
+  <div class="save-container">
+    <button id="saveAll">Sla gegevens per huisje op</button>
+  </div>
+
+  <script src="Sovon.js"></script>
+</body>
+</html>
+
+
+
