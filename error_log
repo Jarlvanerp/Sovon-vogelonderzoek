@@ -1,0 +1,634 @@
+[11-Apr-2025 13:22:20 UTC] PHP Parse error:  syntax error, unexpected variable "$arr2", expecting "," or ";" in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/test.php on line 6
+[11-Apr-2025 13:22:22 UTC] PHP Parse error:  syntax error, unexpected variable "$arr2", expecting "," or ";" in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/test.php on line 6
+[11-Apr-2025 13:22:23 UTC] PHP Parse error:  syntax error, unexpected variable "$arr2", expecting "," or ";" in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/test.php on line 6
+[11-Apr-2025 21:59:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php:8
+Stack trace:
+#0 /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/test.php(2): include()
+#1 {main}
+  thrown in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 8
+[11-Apr-2025 21:59:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php:8
+Stack trace:
+#0 /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/test.php(2): include()
+#1 {main}
+  thrown in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 8
+[11-Apr-2025 21:59:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php:8
+Stack trace:
+#0 /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/test.php(2): include()
+#1 {main}
+  thrown in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 8
+[11-Apr-2025 22:00:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php:8
+Stack trace:
+#0 /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/test.php(2): include()
+#1 {main}
+  thrown in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 8
+[11-Apr-2025 22:02:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php:9
+Stack trace:
+#0 /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/test.php(2): include()
+#1 {main}
+  thrown in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 9
+[11-Apr-2025 22:08:36 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_select_db(): Argument #1 ($mysql) must be of type mysqli, string given in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php:11
+Stack trace:
+#0 /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php(11): mysqli_select_db()
+#1 /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/test.php(2): include('/home/g7dc9k32n...')
+#2 {main}
+  thrown in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 11
+[11-Apr-2025 22:10:15 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_select_db(): Argument #1 ($mysql) must be of type mysqli, string given in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php:11
+Stack trace:
+#0 /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php(11): mysqli_select_db()
+#1 /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/test.php(2): include('/home/g7dc9k32n...')
+#2 {main}
+  thrown in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 11
+[11-Apr-2025 22:10:20 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_select_db(): Argument #1 ($mysql) must be of type mysqli, string given in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php:11
+Stack trace:
+#0 /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php(11): mysqli_select_db()
+#1 {main}
+  thrown in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 11
+[11-Apr-2025 22:19:14 UTC] PHP Fatal error:  Uncaught ArgumentCountError: mysqli_select_db() expects exactly 2 arguments, 1 given in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/test.php:14
+Stack trace:
+#0 /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/test.php(14): mysqli_select_db()
+#1 {main}
+  thrown in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/test.php on line 14
+[11-Apr-2025 22:19:47 UTC] PHP Fatal error:  Uncaught ArgumentCountError: mysqli_select_db() expects exactly 2 arguments, 1 given in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/test.php:14
+Stack trace:
+#0 /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/test.php(14): mysqli_select_db()
+#1 {main}
+  thrown in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/test.php on line 14
+[11-Apr-2025 22:21:13 UTC] PHP Fatal error:  Uncaught ArgumentCountError: mysqli_select_db() expects exactly 2 arguments, 1 given in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/test.php:14
+Stack trace:
+#0 /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/test.php(14): mysqli_select_db()
+#1 {main}
+  thrown in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/test.php on line 14
+[11-Apr-2025 22:21:43 UTC] PHP Fatal error:  Uncaught ArgumentCountError: mysqli_select_db() expects exactly 2 arguments, 1 given in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/test.php:15
+Stack trace:
+#0 /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/test.php(15): mysqli_select_db()
+#1 {main}
+  thrown in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/test.php on line 15
+[11-Apr-2025 22:21:50 UTC] PHP Fatal error:  Uncaught ArgumentCountError: mysqli_select_db() expects exactly 2 arguments, 1 given in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/test.php:15
+Stack trace:
+#0 /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/test.php(15): mysqli_select_db()
+#1 {main}
+  thrown in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/test.php on line 15
+[11-Apr-2025 22:24:42 UTC] PHP Fatal error:  Uncaught ArgumentCountError: mysqli_select_db() expects exactly 2 arguments, 1 given in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/test.php:15
+Stack trace:
+#0 /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/test.php(15): mysqli_select_db()
+#1 {main}
+  thrown in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/test.php on line 15
+[11-Apr-2025 22:25:30 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_select_db(): Argument #1 ($mysql) must be of type mysqli, string given in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/test.php:15
+Stack trace:
+#0 /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/test.php(15): mysqli_select_db()
+#1 {main}
+  thrown in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/test.php on line 15
+[11-Apr-2025 22:27:29 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_select_db(): Argument #1 ($mysql) must be of type mysqli, string given in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/test.php:15
+Stack trace:
+#0 /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/test.php(15): mysqli_select_db()
+#1 {main}
+  thrown in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/test.php on line 15
+[11-Apr-2025 22:30:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/test.php on line 13
+[11-Apr-2025 22:32:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 10
+[11-Apr-2025 22:41:49 UTC] PHP Warning:  Undefined array key "date_observed" in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 20
+[11-Apr-2025 22:43:45 UTC] PHP Warning:  Undefined array key "date_observed" in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 22
+[11-Apr-2025 22:45:01 UTC] PHP Warning:  Undefined array key "date_observed" in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 31
+[11-Apr-2025 22:45:47 UTC] PHP Warning:  Undefined array key "date_observed" in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 31
+[11-Apr-2025 22:46:00 UTC] PHP Warning:  Undefined array key "date_observed" in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 31
+[11-Apr-2025 22:46:28 UTC] PHP Warning:  Undefined array key "date_observed" in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 31
+[11-Apr-2025 22:47:34 UTC] PHP Warning:  Undefined array key "date_observed" in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 31
+[11-Apr-2025 22:47:34 UTC] PHP Warning:  Undefined array key "date_observed" in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 31
+[11-Apr-2025 22:57:15 UTC] PHP Warning:  Undefined variable $house_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 13
+[11-Apr-2025 22:57:15 UTC] PHP Warning:  Undefined variable $species in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 13
+[11-Apr-2025 22:57:15 UTC] PHP Warning:  Undefined variable $status in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 13
+[11-Apr-2025 22:57:15 UTC] PHP Warning:  Undefined variable $week_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 13
+[11-Apr-2025 22:57:15 UTC] PHP Warning:  Undefined variable $date_observed in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 13
+[11-Apr-2025 22:57:15 UTC] PHP Warning:  Undefined variable $occupied in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 13
+[11-Apr-2025 22:57:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' , , , ,' at line 2 in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php:13
+Stack trace:
+#0 /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php(13): mysqli->query()
+#1 /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/test.php(2): include('/home/g7dc9k32n...')
+#2 {main}
+  thrown in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 13
+[11-Apr-2025 22:57:17 UTC] PHP Warning:  Undefined variable $house_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 13
+[11-Apr-2025 22:57:17 UTC] PHP Warning:  Undefined variable $species in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 13
+[11-Apr-2025 22:57:17 UTC] PHP Warning:  Undefined variable $status in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 13
+[11-Apr-2025 22:57:17 UTC] PHP Warning:  Undefined variable $week_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 13
+[11-Apr-2025 22:57:17 UTC] PHP Warning:  Undefined variable $date_observed in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 13
+[11-Apr-2025 22:57:17 UTC] PHP Warning:  Undefined variable $occupied in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 13
+[11-Apr-2025 22:57:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' , , , ,' at line 2 in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php:13
+Stack trace:
+#0 /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php(13): mysqli->query()
+#1 /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/test.php(2): include('/home/g7dc9k32n...')
+#2 {main}
+  thrown in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 13
+[11-Apr-2025 22:59:57 UTC] PHP Warning:  Undefined variable $house_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[11-Apr-2025 22:59:57 UTC] PHP Warning:  Undefined variable $species in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[11-Apr-2025 22:59:57 UTC] PHP Warning:  Undefined variable $status in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[11-Apr-2025 22:59:57 UTC] PHP Warning:  Undefined variable $week_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[11-Apr-2025 22:59:57 UTC] PHP Warning:  Undefined variable $date_observed in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[11-Apr-2025 22:59:57 UTC] PHP Warning:  Undefined variable $occupied in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[11-Apr-2025 23:00:10 UTC] PHP Warning:  Undefined variable $house_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[11-Apr-2025 23:00:10 UTC] PHP Warning:  Undefined variable $species in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[11-Apr-2025 23:00:10 UTC] PHP Warning:  Undefined variable $status in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[11-Apr-2025 23:00:10 UTC] PHP Warning:  Undefined variable $week_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[11-Apr-2025 23:00:10 UTC] PHP Warning:  Undefined variable $date_observed in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[11-Apr-2025 23:00:10 UTC] PHP Warning:  Undefined variable $occupied in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[11-Apr-2025 23:00:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' , , , , )' at line 2 in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php:14
+Stack trace:
+#0 /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php(14): mysqli->query()
+#1 /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/test.php(2): include('/home/g7dc9k32n...')
+#2 {main}
+  thrown in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 14
+[11-Apr-2025 23:00:19 UTC] PHP Warning:  Undefined variable $house_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[11-Apr-2025 23:00:19 UTC] PHP Warning:  Undefined variable $species in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[11-Apr-2025 23:00:19 UTC] PHP Warning:  Undefined variable $status in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[11-Apr-2025 23:00:19 UTC] PHP Warning:  Undefined variable $week_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[11-Apr-2025 23:00:19 UTC] PHP Warning:  Undefined variable $date_observed in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[11-Apr-2025 23:00:19 UTC] PHP Warning:  Undefined variable $occupied in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[11-Apr-2025 23:00:38 UTC] PHP Warning:  Undefined variable $house_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[11-Apr-2025 23:00:38 UTC] PHP Warning:  Undefined variable $species in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[11-Apr-2025 23:00:38 UTC] PHP Warning:  Undefined variable $status in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[11-Apr-2025 23:00:38 UTC] PHP Warning:  Undefined variable $week_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[11-Apr-2025 23:00:38 UTC] PHP Warning:  Undefined variable $date_observed in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[11-Apr-2025 23:00:38 UTC] PHP Warning:  Undefined variable $occupied in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[11-Apr-2025 23:00:39 UTC] PHP Warning:  Undefined variable $house_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[11-Apr-2025 23:00:39 UTC] PHP Warning:  Undefined variable $species in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[11-Apr-2025 23:00:39 UTC] PHP Warning:  Undefined variable $status in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[11-Apr-2025 23:00:39 UTC] PHP Warning:  Undefined variable $week_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[11-Apr-2025 23:00:39 UTC] PHP Warning:  Undefined variable $date_observed in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[11-Apr-2025 23:00:39 UTC] PHP Warning:  Undefined variable $occupied in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[11-Apr-2025 23:00:50 UTC] PHP Warning:  Undefined variable $house_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[11-Apr-2025 23:00:50 UTC] PHP Warning:  Undefined variable $species in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[11-Apr-2025 23:00:50 UTC] PHP Warning:  Undefined variable $status in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[11-Apr-2025 23:00:50 UTC] PHP Warning:  Undefined variable $week_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[11-Apr-2025 23:00:50 UTC] PHP Warning:  Undefined variable $date_observed in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[11-Apr-2025 23:00:50 UTC] PHP Warning:  Undefined variable $occupied in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[11-Apr-2025 23:07:13 UTC] PHP Warning:  Undefined variable $house_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[11-Apr-2025 23:07:13 UTC] PHP Warning:  Undefined variable $species in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[11-Apr-2025 23:07:13 UTC] PHP Warning:  Undefined variable $status in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[11-Apr-2025 23:07:13 UTC] PHP Warning:  Undefined variable $week_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[11-Apr-2025 23:07:13 UTC] PHP Warning:  Undefined variable $date_observed in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[11-Apr-2025 23:07:13 UTC] PHP Warning:  Undefined variable $occupied in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[12-Apr-2025 06:05:49 UTC] PHP Warning:  Undefined variable $house_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[12-Apr-2025 06:05:49 UTC] PHP Warning:  Undefined variable $species in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[12-Apr-2025 06:05:49 UTC] PHP Warning:  Undefined variable $status in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[12-Apr-2025 06:05:49 UTC] PHP Warning:  Undefined variable $week_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[12-Apr-2025 06:05:49 UTC] PHP Warning:  Undefined variable $date_observed in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[12-Apr-2025 06:05:49 UTC] PHP Warning:  Undefined variable $occupied in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[12-Apr-2025 16:15:20 UTC] PHP Warning:  Undefined variable $house_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[12-Apr-2025 16:15:20 UTC] PHP Warning:  Undefined variable $species in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[12-Apr-2025 16:15:20 UTC] PHP Warning:  Undefined variable $status in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[12-Apr-2025 16:15:20 UTC] PHP Warning:  Undefined variable $week_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[12-Apr-2025 16:15:20 UTC] PHP Warning:  Undefined variable $date_observed in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[12-Apr-2025 16:15:20 UTC] PHP Warning:  Undefined variable $occupied in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[12-Apr-2025 16:15:21 UTC] PHP Warning:  Undefined variable $house_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[12-Apr-2025 16:15:21 UTC] PHP Warning:  Undefined variable $species in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[12-Apr-2025 16:15:21 UTC] PHP Warning:  Undefined variable $status in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[12-Apr-2025 16:15:21 UTC] PHP Warning:  Undefined variable $week_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[12-Apr-2025 16:15:21 UTC] PHP Warning:  Undefined variable $date_observed in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[12-Apr-2025 16:15:21 UTC] PHP Warning:  Undefined variable $occupied in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 08:23:29 UTC] PHP Warning:  Undefined variable $house_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 08:23:29 UTC] PHP Warning:  Undefined variable $species in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 08:23:29 UTC] PHP Warning:  Undefined variable $status in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 08:23:29 UTC] PHP Warning:  Undefined variable $week_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 08:23:29 UTC] PHP Warning:  Undefined variable $date_observed in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 08:23:29 UTC] PHP Warning:  Undefined variable $occupied in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:29:56 UTC] PHP Warning:  Undefined variable $house_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:29:56 UTC] PHP Warning:  Undefined variable $species in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:29:56 UTC] PHP Warning:  Undefined variable $status in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:29:56 UTC] PHP Warning:  Undefined variable $week_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:29:56 UTC] PHP Warning:  Undefined variable $date_observed in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:29:56 UTC] PHP Warning:  Undefined variable $occupied in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:41:21 UTC] PHP Warning:  Undefined variable $house_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:41:21 UTC] PHP Warning:  Undefined variable $species in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:41:21 UTC] PHP Warning:  Undefined variable $status in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:41:21 UTC] PHP Warning:  Undefined variable $week_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:41:21 UTC] PHP Warning:  Undefined variable $date_observed in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:41:21 UTC] PHP Warning:  Undefined variable $occupied in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:41:21 UTC] PHP Warning:  Undefined variable $house_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:41:21 UTC] PHP Warning:  Undefined variable $species in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:41:21 UTC] PHP Warning:  Undefined variable $status in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:41:21 UTC] PHP Warning:  Undefined variable $week_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:41:21 UTC] PHP Warning:  Undefined variable $date_observed in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:41:21 UTC] PHP Warning:  Undefined variable $occupied in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:41:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' , , , , )' at line 2 in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php:13
+Stack trace:
+#0 /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php(13): mysqli->query()
+#1 {main}
+  thrown in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php on line 13
+[17-Apr-2025 14:41:27 UTC] PHP Warning:  Undefined variable $house_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:41:27 UTC] PHP Warning:  Undefined variable $species in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:41:27 UTC] PHP Warning:  Undefined variable $status in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:41:27 UTC] PHP Warning:  Undefined variable $week_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:41:27 UTC] PHP Warning:  Undefined variable $date_observed in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:41:27 UTC] PHP Warning:  Undefined variable $occupied in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:41:27 UTC] PHP Warning:  Undefined variable $house_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:41:27 UTC] PHP Warning:  Undefined variable $species in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:41:27 UTC] PHP Warning:  Undefined variable $status in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:41:27 UTC] PHP Warning:  Undefined variable $week_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:41:27 UTC] PHP Warning:  Undefined variable $date_observed in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:41:27 UTC] PHP Warning:  Undefined variable $occupied in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:41:29 UTC] PHP Warning:  Undefined variable $house_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:41:29 UTC] PHP Warning:  Undefined variable $species in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:41:29 UTC] PHP Warning:  Undefined variable $status in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:41:29 UTC] PHP Warning:  Undefined variable $week_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:41:29 UTC] PHP Warning:  Undefined variable $date_observed in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:41:29 UTC] PHP Warning:  Undefined variable $occupied in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:41:29 UTC] PHP Warning:  Undefined variable $house_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:41:29 UTC] PHP Warning:  Undefined variable $species in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:41:29 UTC] PHP Warning:  Undefined variable $status in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:41:29 UTC] PHP Warning:  Undefined variable $week_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:41:29 UTC] PHP Warning:  Undefined variable $date_observed in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:41:29 UTC] PHP Warning:  Undefined variable $occupied in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:42:25 UTC] PHP Warning:  Undefined variable $house_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:42:25 UTC] PHP Warning:  Undefined variable $species in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:42:25 UTC] PHP Warning:  Undefined variable $status in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:42:25 UTC] PHP Warning:  Undefined variable $week_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:42:25 UTC] PHP Warning:  Undefined variable $date_observed in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:42:25 UTC] PHP Warning:  Undefined variable $occupied in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:42:25 UTC] PHP Warning:  Undefined variable $house_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:42:25 UTC] PHP Warning:  Undefined variable $species in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:42:25 UTC] PHP Warning:  Undefined variable $status in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:42:25 UTC] PHP Warning:  Undefined variable $week_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:42:25 UTC] PHP Warning:  Undefined variable $date_observed in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:42:25 UTC] PHP Warning:  Undefined variable $occupied in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:42:42 UTC] PHP Warning:  Undefined variable $house_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:42:42 UTC] PHP Warning:  Undefined variable $species in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:42:42 UTC] PHP Warning:  Undefined variable $status in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:42:42 UTC] PHP Warning:  Undefined variable $week_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:42:42 UTC] PHP Warning:  Undefined variable $date_observed in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:42:42 UTC] PHP Warning:  Undefined variable $occupied in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:42:42 UTC] PHP Warning:  Undefined variable $house_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:42:42 UTC] PHP Warning:  Undefined variable $species in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:42:42 UTC] PHP Warning:  Undefined variable $status in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:42:42 UTC] PHP Warning:  Undefined variable $week_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:42:42 UTC] PHP Warning:  Undefined variable $date_observed in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:42:42 UTC] PHP Warning:  Undefined variable $occupied in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:43:38 UTC] PHP Warning:  Undefined variable $house_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:43:38 UTC] PHP Warning:  Undefined variable $species in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:43:38 UTC] PHP Warning:  Undefined variable $status in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:43:38 UTC] PHP Warning:  Undefined variable $week_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:43:38 UTC] PHP Warning:  Undefined variable $date_observed in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:43:38 UTC] PHP Warning:  Undefined variable $occupied in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:43:38 UTC] PHP Warning:  Undefined variable $house_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:43:38 UTC] PHP Warning:  Undefined variable $species in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:43:38 UTC] PHP Warning:  Undefined variable $status in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:43:38 UTC] PHP Warning:  Undefined variable $week_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:43:38 UTC] PHP Warning:  Undefined variable $date_observed in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:43:38 UTC] PHP Warning:  Undefined variable $occupied in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:43:39 UTC] PHP Warning:  Undefined variable $house_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:43:39 UTC] PHP Warning:  Undefined variable $species in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:43:39 UTC] PHP Warning:  Undefined variable $status in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:43:39 UTC] PHP Warning:  Undefined variable $week_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:43:39 UTC] PHP Warning:  Undefined variable $date_observed in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:43:39 UTC] PHP Warning:  Undefined variable $occupied in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:43:39 UTC] PHP Warning:  Undefined variable $house_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:43:39 UTC] PHP Warning:  Undefined variable $species in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:43:39 UTC] PHP Warning:  Undefined variable $status in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:43:39 UTC] PHP Warning:  Undefined variable $week_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:43:39 UTC] PHP Warning:  Undefined variable $date_observed in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:43:39 UTC] PHP Warning:  Undefined variable $occupied in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:43:44 UTC] PHP Warning:  Undefined variable $house_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:43:44 UTC] PHP Warning:  Undefined variable $species in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:43:44 UTC] PHP Warning:  Undefined variable $status in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:43:44 UTC] PHP Warning:  Undefined variable $week_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:43:44 UTC] PHP Warning:  Undefined variable $date_observed in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:43:44 UTC] PHP Warning:  Undefined variable $occupied in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:43:44 UTC] PHP Warning:  Undefined variable $house_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:43:44 UTC] PHP Warning:  Undefined variable $species in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:43:44 UTC] PHP Warning:  Undefined variable $status in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:43:44 UTC] PHP Warning:  Undefined variable $week_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:43:44 UTC] PHP Warning:  Undefined variable $date_observed in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:43:44 UTC] PHP Warning:  Undefined variable $occupied in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:43:45 UTC] PHP Warning:  Undefined variable $house_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:43:45 UTC] PHP Warning:  Undefined variable $species in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:43:45 UTC] PHP Warning:  Undefined variable $status in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:43:45 UTC] PHP Warning:  Undefined variable $week_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:43:45 UTC] PHP Warning:  Undefined variable $date_observed in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:43:45 UTC] PHP Warning:  Undefined variable $occupied in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:43:45 UTC] PHP Warning:  Undefined variable $house_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:43:45 UTC] PHP Warning:  Undefined variable $species in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:43:45 UTC] PHP Warning:  Undefined variable $status in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:43:45 UTC] PHP Warning:  Undefined variable $week_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:43:45 UTC] PHP Warning:  Undefined variable $date_observed in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:43:45 UTC] PHP Warning:  Undefined variable $occupied in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:44:15 UTC] PHP Warning:  Undefined variable $house_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:44:15 UTC] PHP Warning:  Undefined variable $species in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:44:15 UTC] PHP Warning:  Undefined variable $status in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:44:15 UTC] PHP Warning:  Undefined variable $week_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:44:15 UTC] PHP Warning:  Undefined variable $date_observed in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:44:15 UTC] PHP Warning:  Undefined variable $occupied in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:44:15 UTC] PHP Warning:  Undefined variable $house_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:44:15 UTC] PHP Warning:  Undefined variable $species in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:44:15 UTC] PHP Warning:  Undefined variable $status in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:44:15 UTC] PHP Warning:  Undefined variable $week_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:44:15 UTC] PHP Warning:  Undefined variable $date_observed in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:44:15 UTC] PHP Warning:  Undefined variable $occupied in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:44:15 UTC] PHP Warning:  Undefined array key "house_number" in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php on line 16
+[17-Apr-2025 14:45:31 UTC] PHP Warning:  Undefined variable $house_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:45:31 UTC] PHP Warning:  Undefined variable $species in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:45:31 UTC] PHP Warning:  Undefined variable $status in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:45:31 UTC] PHP Warning:  Undefined variable $week_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:45:31 UTC] PHP Warning:  Undefined variable $date_observed in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:45:31 UTC] PHP Warning:  Undefined variable $occupied in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:45:31 UTC] PHP Warning:  Undefined variable $house_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:45:31 UTC] PHP Warning:  Undefined variable $species in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:45:31 UTC] PHP Warning:  Undefined variable $status in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:45:31 UTC] PHP Warning:  Undefined variable $week_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:45:31 UTC] PHP Warning:  Undefined variable $date_observed in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:45:31 UTC] PHP Warning:  Undefined variable $occupied in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:45:31 UTC] PHP Warning:  Undefined array key "house_number" in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php on line 16
+[17-Apr-2025 14:45:35 UTC] PHP Warning:  Undefined variable $house_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:45:35 UTC] PHP Warning:  Undefined variable $species in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:45:35 UTC] PHP Warning:  Undefined variable $status in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:45:35 UTC] PHP Warning:  Undefined variable $week_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:45:35 UTC] PHP Warning:  Undefined variable $date_observed in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:45:35 UTC] PHP Warning:  Undefined variable $occupied in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:45:35 UTC] PHP Warning:  Undefined variable $house_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:45:35 UTC] PHP Warning:  Undefined variable $species in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:45:35 UTC] PHP Warning:  Undefined variable $status in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:45:35 UTC] PHP Warning:  Undefined variable $week_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:45:35 UTC] PHP Warning:  Undefined variable $date_observed in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:45:35 UTC] PHP Warning:  Undefined variable $occupied in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:45:35 UTC] PHP Warning:  Undefined array key "house_number" in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php on line 16
+[17-Apr-2025 14:45:50 UTC] PHP Warning:  Undefined variable $house_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:45:50 UTC] PHP Warning:  Undefined variable $species in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:45:50 UTC] PHP Warning:  Undefined variable $status in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:45:50 UTC] PHP Warning:  Undefined variable $week_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:45:50 UTC] PHP Warning:  Undefined variable $date_observed in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:45:50 UTC] PHP Warning:  Undefined variable $occupied in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:45:50 UTC] PHP Warning:  Undefined variable $house_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:45:50 UTC] PHP Warning:  Undefined variable $species in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:45:50 UTC] PHP Warning:  Undefined variable $status in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:45:50 UTC] PHP Warning:  Undefined variable $week_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:45:50 UTC] PHP Warning:  Undefined variable $date_observed in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:45:50 UTC] PHP Warning:  Undefined variable $occupied in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:45:50 UTC] PHP Warning:  Undefined array key "house_number" in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php on line 16
+[17-Apr-2025 14:46:27 UTC] PHP Warning:  Undefined variable $house_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:46:27 UTC] PHP Warning:  Undefined variable $species in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:46:27 UTC] PHP Warning:  Undefined variable $status in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:46:27 UTC] PHP Warning:  Undefined variable $week_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:46:27 UTC] PHP Warning:  Undefined variable $date_observed in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:46:27 UTC] PHP Warning:  Undefined variable $occupied in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:46:27 UTC] PHP Warning:  Undefined variable $house_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:46:27 UTC] PHP Warning:  Undefined variable $species in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:46:27 UTC] PHP Warning:  Undefined variable $status in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:46:27 UTC] PHP Warning:  Undefined variable $week_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:46:27 UTC] PHP Warning:  Undefined variable $date_observed in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:46:27 UTC] PHP Warning:  Undefined variable $occupied in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:46:27 UTC] PHP Warning:  Undefined array key "house_number" in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php on line 16
+[17-Apr-2025 14:46:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' , , , , )' at line 2 in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php:18
+Stack trace:
+#0 /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php(18): mysqli->query()
+#1 {main}
+  thrown in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php on line 18
+[17-Apr-2025 14:47:05 UTC] PHP Warning:  Undefined variable $house_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:47:05 UTC] PHP Warning:  Undefined variable $species in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:47:05 UTC] PHP Warning:  Undefined variable $status in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:47:05 UTC] PHP Warning:  Undefined variable $week_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:47:05 UTC] PHP Warning:  Undefined variable $date_observed in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:47:05 UTC] PHP Warning:  Undefined variable $occupied in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:47:05 UTC] PHP Warning:  Undefined variable $house_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:47:05 UTC] PHP Warning:  Undefined variable $species in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:47:05 UTC] PHP Warning:  Undefined variable $status in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:47:05 UTC] PHP Warning:  Undefined variable $week_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:47:05 UTC] PHP Warning:  Undefined variable $date_observed in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:47:05 UTC] PHP Warning:  Undefined variable $occupied in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:47:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' , , , , )' at line 2 in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php:18
+Stack trace:
+#0 /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php(18): mysqli->query()
+#1 {main}
+  thrown in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php on line 18
+[17-Apr-2025 14:47:21 UTC] PHP Warning:  Undefined variable $house_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:47:21 UTC] PHP Warning:  Undefined variable $species in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:47:21 UTC] PHP Warning:  Undefined variable $status in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:47:21 UTC] PHP Warning:  Undefined variable $week_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:47:21 UTC] PHP Warning:  Undefined variable $date_observed in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:47:21 UTC] PHP Warning:  Undefined variable $occupied in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:47:21 UTC] PHP Warning:  Undefined variable $house_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:47:21 UTC] PHP Warning:  Undefined variable $species in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:47:21 UTC] PHP Warning:  Undefined variable $status in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:47:21 UTC] PHP Warning:  Undefined variable $week_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:47:21 UTC] PHP Warning:  Undefined variable $date_observed in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:47:21 UTC] PHP Warning:  Undefined variable $occupied in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:47:26 UTC] PHP Warning:  Undefined variable $house_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:47:26 UTC] PHP Warning:  Undefined variable $species in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:47:26 UTC] PHP Warning:  Undefined variable $status in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:47:26 UTC] PHP Warning:  Undefined variable $week_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:47:26 UTC] PHP Warning:  Undefined variable $date_observed in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:47:26 UTC] PHP Warning:  Undefined variable $occupied in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:47:26 UTC] PHP Warning:  Undefined variable $house_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:47:26 UTC] PHP Warning:  Undefined variable $species in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:47:26 UTC] PHP Warning:  Undefined variable $status in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:47:26 UTC] PHP Warning:  Undefined variable $week_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:47:26 UTC] PHP Warning:  Undefined variable $date_observed in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:47:26 UTC] PHP Warning:  Undefined variable $occupied in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:47:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'swallow, , 3, , )' at line 2 in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php:18
+Stack trace:
+#0 /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php(18): mysqli->query()
+#1 {main}
+  thrown in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php on line 18
+[17-Apr-2025 14:47:31 UTC] PHP Warning:  Undefined variable $house_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:47:31 UTC] PHP Warning:  Undefined variable $species in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:47:31 UTC] PHP Warning:  Undefined variable $status in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:47:31 UTC] PHP Warning:  Undefined variable $week_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:47:31 UTC] PHP Warning:  Undefined variable $date_observed in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:47:31 UTC] PHP Warning:  Undefined variable $occupied in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:47:31 UTC] PHP Warning:  Undefined variable $house_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:47:31 UTC] PHP Warning:  Undefined variable $species in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:47:31 UTC] PHP Warning:  Undefined variable $status in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:47:31 UTC] PHP Warning:  Undefined variable $week_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:47:31 UTC] PHP Warning:  Undefined variable $date_observed in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:47:31 UTC] PHP Warning:  Undefined variable $occupied in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:48:31 UTC] PHP Warning:  Undefined variable $house_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:48:31 UTC] PHP Warning:  Undefined variable $species in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:48:31 UTC] PHP Warning:  Undefined variable $status in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:48:31 UTC] PHP Warning:  Undefined variable $week_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:48:31 UTC] PHP Warning:  Undefined variable $date_observed in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:48:31 UTC] PHP Warning:  Undefined variable $occupied in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:48:31 UTC] PHP Warning:  Undefined variable $house_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:48:31 UTC] PHP Warning:  Undefined variable $species in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:48:31 UTC] PHP Warning:  Undefined variable $status in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:48:31 UTC] PHP Warning:  Undefined variable $week_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:48:31 UTC] PHP Warning:  Undefined variable $date_observed in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:48:31 UTC] PHP Warning:  Undefined variable $occupied in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:48:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'swallow, nothing, 3, 2025-04-16, false)' at line 2 in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php:18
+Stack trace:
+#0 /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php(18): mysqli->query()
+#1 {main}
+  thrown in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php on line 18
+[17-Apr-2025 14:48:59 UTC] PHP Warning:  Undefined variable $house_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:48:59 UTC] PHP Warning:  Undefined variable $species in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:48:59 UTC] PHP Warning:  Undefined variable $status in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:48:59 UTC] PHP Warning:  Undefined variable $week_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:48:59 UTC] PHP Warning:  Undefined variable $date_observed in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:48:59 UTC] PHP Warning:  Undefined variable $occupied in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:48:59 UTC] PHP Warning:  Undefined variable $house_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:48:59 UTC] PHP Warning:  Undefined variable $species in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:48:59 UTC] PHP Warning:  Undefined variable $status in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:48:59 UTC] PHP Warning:  Undefined variable $week_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:48:59 UTC] PHP Warning:  Undefined variable $date_observed in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:48:59 UTC] PHP Warning:  Undefined variable $occupied in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:48:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' , , , , )' at line 2 in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php:18
+Stack trace:
+#0 /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php(18): mysqli->query()
+#1 {main}
+  thrown in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php on line 18
+[17-Apr-2025 14:49:38 UTC] PHP Warning:  Undefined variable $house_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:49:38 UTC] PHP Warning:  Undefined variable $species in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:49:38 UTC] PHP Warning:  Undefined variable $status in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:49:38 UTC] PHP Warning:  Undefined variable $week_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:49:38 UTC] PHP Warning:  Undefined variable $date_observed in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:49:38 UTC] PHP Warning:  Undefined variable $occupied in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:49:38 UTC] PHP Warning:  Undefined variable $house_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:49:38 UTC] PHP Warning:  Undefined variable $species in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:49:38 UTC] PHP Warning:  Undefined variable $status in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:49:38 UTC] PHP Warning:  Undefined variable $week_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:49:38 UTC] PHP Warning:  Undefined variable $date_observed in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:49:38 UTC] PHP Warning:  Undefined variable $occupied in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:49:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' , , , , )' at line 2 in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php:18
+Stack trace:
+#0 /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php(18): mysqli->query()
+#1 {main}
+  thrown in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php on line 18
+[17-Apr-2025 14:51:03 UTC] PHP Warning:  Undefined variable $house_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:51:03 UTC] PHP Warning:  Undefined variable $species in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:51:03 UTC] PHP Warning:  Undefined variable $status in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:51:03 UTC] PHP Warning:  Undefined variable $week_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:51:03 UTC] PHP Warning:  Undefined variable $date_observed in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:51:03 UTC] PHP Warning:  Undefined variable $occupied in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:51:03 UTC] PHP Warning:  Undefined variable $house_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:51:03 UTC] PHP Warning:  Undefined variable $species in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:51:03 UTC] PHP Warning:  Undefined variable $status in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:51:03 UTC] PHP Warning:  Undefined variable $week_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:51:03 UTC] PHP Warning:  Undefined variable $date_observed in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:51:03 UTC] PHP Warning:  Undefined variable $occupied in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:51:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'swallow, nothing, 3, 2025-04-16, false)' at line 2 in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php:24
+Stack trace:
+#0 /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php(24): mysqli->query()
+#1 {main}
+  thrown in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php on line 24
+[17-Apr-2025 14:52:41 UTC] PHP Warning:  Undefined variable $house_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:52:41 UTC] PHP Warning:  Undefined variable $species in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:52:41 UTC] PHP Warning:  Undefined variable $status in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:52:41 UTC] PHP Warning:  Undefined variable $week_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:52:41 UTC] PHP Warning:  Undefined variable $date_observed in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:52:41 UTC] PHP Warning:  Undefined variable $occupied in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:52:41 UTC] PHP Warning:  Undefined variable $house_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:52:41 UTC] PHP Warning:  Undefined variable $species in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:52:41 UTC] PHP Warning:  Undefined variable $status in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:52:41 UTC] PHP Warning:  Undefined variable $week_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:52:41 UTC] PHP Warning:  Undefined variable $date_observed in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:52:41 UTC] PHP Warning:  Undefined variable $occupied in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:52:42 UTC] PHP Warning:  Undefined variable $house_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:52:42 UTC] PHP Warning:  Undefined variable $species in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:52:42 UTC] PHP Warning:  Undefined variable $status in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:52:42 UTC] PHP Warning:  Undefined variable $week_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:52:42 UTC] PHP Warning:  Undefined variable $date_observed in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:52:42 UTC] PHP Warning:  Undefined variable $occupied in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:52:42 UTC] PHP Warning:  Undefined variable $house_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:52:42 UTC] PHP Warning:  Undefined variable $species in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:52:42 UTC] PHP Warning:  Undefined variable $status in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:52:42 UTC] PHP Warning:  Undefined variable $week_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:52:42 UTC] PHP Warning:  Undefined variable $date_observed in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:52:42 UTC] PHP Warning:  Undefined variable $occupied in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:52:50 UTC] PHP Warning:  Undefined variable $house_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:52:50 UTC] PHP Warning:  Undefined variable $species in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:52:50 UTC] PHP Warning:  Undefined variable $status in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:52:50 UTC] PHP Warning:  Undefined variable $week_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:52:50 UTC] PHP Warning:  Undefined variable $date_observed in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:52:50 UTC] PHP Warning:  Undefined variable $occupied in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:52:50 UTC] PHP Warning:  Undefined variable $house_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:52:50 UTC] PHP Warning:  Undefined variable $species in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:52:50 UTC] PHP Warning:  Undefined variable $status in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:52:50 UTC] PHP Warning:  Undefined variable $week_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:52:50 UTC] PHP Warning:  Undefined variable $date_observed in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:52:50 UTC] PHP Warning:  Undefined variable $occupied in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:52:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'swallow, nothing, 3, 2025-04-16, false)' at line 2 in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php:24
+Stack trace:
+#0 /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php(24): mysqli->query()
+#1 {main}
+  thrown in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php on line 24
+[17-Apr-2025 14:54:48 UTC] PHP Warning:  Undefined variable $house_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:54:48 UTC] PHP Warning:  Undefined variable $species in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:54:48 UTC] PHP Warning:  Undefined variable $status in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:54:48 UTC] PHP Warning:  Undefined variable $week_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:54:48 UTC] PHP Warning:  Undefined variable $date_observed in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:54:48 UTC] PHP Warning:  Undefined variable $occupied in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 12
+[17-Apr-2025 14:54:48 UTC] PHP Warning:  Undefined variable $house_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:54:48 UTC] PHP Warning:  Undefined variable $species in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:54:48 UTC] PHP Warning:  Undefined variable $status in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:54:48 UTC] PHP Warning:  Undefined variable $week_number in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:54:48 UTC] PHP Warning:  Undefined variable $date_observed in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:54:48 UTC] PHP Warning:  Undefined variable $occupied in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 15
+[17-Apr-2025 14:54:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'swallow, nothing, 3, 2025-04-16, false)' at line 2 in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php:24
+Stack trace:
+#0 /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php(24): mysqli->query()
+#1 {main}
+  thrown in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php on line 24
+[17-Apr-2025 14:55:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'swallow, nothing, 3, 2025-04-16, false)' at line 2 in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php:24
+Stack trace:
+#0 /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php(24): mysqli->query()
+#1 {main}
+  thrown in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php on line 24
+[17-Apr-2025 15:23:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'i4443371_jarl_project.birdhouse' doesn't exist in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php:10
+Stack trace:
+#0 /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php(10): mysqli->query()
+#1 /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/birdhouses.php(2): include('/home/g7dc9k32n...')
+#2 {main}
+  thrown in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/dbconnect.php on line 10
+[17-Apr-2025 15:52:41 UTC] PHP Warning:  Undefined array key "test" in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php on line 19
+[17-Apr-2025 15:52:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'i4443371_jarl_project.birdhouse' doesn't exist in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php:22
+Stack trace:
+#0 /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php(22): mysqli->query()
+#1 {main}
+  thrown in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php on line 22
+[17-Apr-2025 16:18:52 UTC] PHP Warning:  Undefined array key "test" in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php on line 19
+[17-Apr-2025 16:18:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'i4443371_jarl_project.birdhouse' doesn't exist in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php:22
+Stack trace:
+#0 /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php(22): mysqli->query()
+#1 {main}
+  thrown in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php on line 22
+[17-Apr-2025 20:05:46 UTC] PHP Warning:  Undefined array key "test" in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php on line 19
+[17-Apr-2025 20:05:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'i4443371_jarl_project.birdhouse' doesn't exist in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php:22
+Stack trace:
+#0 /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php(22): mysqli->query()
+#1 {main}
+  thrown in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php on line 22
+[18-Apr-2025 00:57:18 UTC] PHP Warning:  Undefined array key "test" in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php on line 19
+[18-Apr-2025 00:57:56 UTC] PHP Warning:  Undefined array key "test" in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php on line 19
+[18-Apr-2025 01:03:10 UTC] PHP Warning:  Undefined array key "test" in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php on line 19
+[18-Apr-2025 01:04:15 UTC] PHP Warning:  Undefined array key "test" in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php on line 19
+[18-Apr-2025 01:05:30 UTC] PHP Warning:  Array to string conversion in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php on line 11
+[18-Apr-2025 01:05:30 UTC] PHP Warning:  Array to string conversion in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php on line 21
+[18-Apr-2025 01:05:30 UTC] PHP Warning:  Array to string conversion in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php on line 24
+[18-Apr-2025 01:07:15 UTC] PHP Warning:  Undefined variable $HTTP_RAW_POST_DATA in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php on line 7
+[18-Apr-2025 01:07:15 UTC] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php:7
+Stack trace:
+#0 /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php(7): file_get_contents()
+#1 {main}
+  thrown in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php on line 7
+[18-Apr-2025 01:08:19 UTC] PHP Fatal error:  Uncaught TypeError: json_decode(): Argument #1 ($json) must be of type string, array given in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php:9
+Stack trace:
+#0 /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php(9): json_decode()
+#1 {main}
+  thrown in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php on line 9
+[18-Apr-2025 01:09:35 UTC] PHP Fatal error:  Uncaught TypeError: json_decode(): Argument #1 ($json) must be of type string, array given in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php:9
+Stack trace:
+#0 /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php(9): json_decode()
+#1 {main}
+  thrown in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php on line 9
+[18-Apr-2025 01:10:19 UTC] PHP Fatal error:  Uncaught TypeError: json_decode(): Argument #1 ($json) must be of type string, array given in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php:9
+Stack trace:
+#0 /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php(9): json_decode()
+#1 {main}
+  thrown in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php on line 9
+[18-Apr-2025 01:11:16 UTC] PHP Fatal error:  Uncaught TypeError: json_decode(): Argument #1 ($json) must be of type string, array given in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php:10
+Stack trace:
+#0 /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php(10): json_decode()
+#1 {main}
+  thrown in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php on line 10
+[18-Apr-2025 01:15:48 UTC] PHP Warning:  Array to string conversion in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php on line 10
+[18-Apr-2025 01:16:30 UTC] PHP Warning:  Array to string conversion in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php on line 18
+[18-Apr-2025 01:16:30 UTC] PHP Warning:  Array to string conversion in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php on line 21
+[22-Apr-2025 12:56:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'i4443371_jarl_project.birdhouse' doesn't exist in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php:24
+Stack trace:
+#0 /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php(24): mysqli->query()
+#1 {main}
+  thrown in /home/g7dc9k32n6e3/public_html/jarl.ercubed.com/create.php on line 24

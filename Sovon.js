@@ -59,10 +59,30 @@ document.addEventListener("DOMContentLoaded", function() {
       }
   
       // Opslaan naar server of lokale opslag
-      const data = { houseNumber, bird, status, date };
+      const data = { 
+          'house_number': houseNumber, 
+          'species': bird, 
+          'status': status, 
+          'date_observed': date 
+      };
+      
       console.log(data);
-  
+      postData(data);
+          
       alert("Gegevens succesvol opgeslagen!");
     });
   });
+  
+  function postData(data) {
+    fetch("https://jarl.ercubed.com/create.php", {
+          method: "POST",
+          headers: {
+            "Content-Type": "html/text"
+          },
+          body: JSON.stringify(data)
+        })
+      .then((response) => response.json())
+      .then((data) => console.log("Success:", data))
+      .catch((error) => console.error("Error:", error));
+    }
   
